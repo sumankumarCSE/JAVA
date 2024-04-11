@@ -7,7 +7,7 @@ public class Take_input {
     String name2 = sc.nextLine();
     System.out.println(name2);
     System.out.println(name1);
-    System.out.println("sum");
+    System.out.println("sum"); //hello
     int a = sc.nextInt();
     float b = sc.nextFloat();
     float sum = a+b;
