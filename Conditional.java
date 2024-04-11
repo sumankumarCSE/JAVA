@@ -9,11 +9,11 @@ public class Conditional {
     int b=sc.nextInt();
         if(a>b)
         {
-            System.out.println("a is greater");
+            System.out.println(a+" is greater as compare to "+b);
         }
         else
         {
-            System.out.println("b is greater");
+            System.out.println(b+" is greater as compare to "+a);
         }
     }
 }
