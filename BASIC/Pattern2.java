@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Pattern2 {
     public static void main(String args[]) {
     Scanner sc = new Scanner(System.in);
-    System.out.print("Type the value of n:");
+    System.out.print("Enter the value of n:");
     int n = sc.nextInt();
     int i,j;
 
@@ -98,6 +98,7 @@ public class Pattern2 {
 }*/
 
 //Q.5
+
 // upper part
 for(i=1;i<=4;i++) // for single  line remove equal to 
 {
