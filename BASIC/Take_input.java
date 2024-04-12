@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.BASIC;
 import java.util.*;
 public class Take_input {
     public static void main(String args[]) {
