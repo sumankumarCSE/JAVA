@@ -20,7 +20,8 @@ public class Function1{
         System.out.print("Enter number:");
         int n=sc.nextInt();     
         System.out.print("Enter the value of a:");
-        int a = sc.nextInt();     
+        int a = sc.nextInt(); 
+        System.out.print("Enter the value of a:");    
         int b=sc.nextInt();
         // int sum=calculateSum(a,b);
         // System.out.println("Sum of 2 numbers is:"+ sum);     
