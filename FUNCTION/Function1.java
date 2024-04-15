@@ -21,7 +21,7 @@ public class Function1{
         int n=sc.nextInt();     
         System.out.print("Enter the value of a:");
         int a = sc.nextInt(); 
-        System.out.print("Enter the value of a:");    
+        System.out.print("Enter the value of b:");    
         int b=sc.nextInt();
         // int sum=calculateSum(a,b);
         // System.out.println("Sum of 2 numbers is:"+ sum);     
