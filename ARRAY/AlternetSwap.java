@@ -22,7 +22,7 @@ public class AlternetSwap {
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
             if(arr[i]==arr[j]){
-                System.out.println("Duplicate value present in Given :"+arr[i]);
+                System.out.println("Duplicate value present in Given Arrya:"+arr[i]);
             }
             }
         }
