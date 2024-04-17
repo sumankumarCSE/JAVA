@@ -1,6 +1,7 @@
 package JAVA.ARRAY;
 import java.util.Scanner;
 public class AlternetSwap {
+    //Q.1
     public static void swapA(int arr[],int n){
         for(int i=0;i<n;i+=2){
          if(i+1<n){
@@ -14,6 +15,17 @@ public class AlternetSwap {
         for(int i=0;i<n;i++){
             System.out.print(arr[i]+" ");
         }   
+    }
+// Q.2
+    public static void Duplicate(int arr[],int n)
+    {
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+            if(arr[i]==arr[j]){
+                System.out.println("Duplicate value is:"+arr[i]);
+            }
+            }
+        }
     }
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in); 
@@ -34,5 +46,6 @@ public class AlternetSwap {
     //printA(arr,n);
     swapA(arr,n);
     printA(arr,n);
+    Duplicate(arr,n);
     }
 }
