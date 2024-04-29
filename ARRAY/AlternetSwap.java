@@ -44,6 +44,7 @@ public class AlternetSwap {
     //     }
     // }
     //printA(arr,n);
+    System.out.println();
     swapA(arr,n);
     printA(arr,n);
     Duplicate(arr,n);
