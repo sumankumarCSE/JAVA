@@ -51,5 +51,6 @@ public class AlternetSwap {
     printA(arr,n);
     System.out.println();
     Duplicate(arr,n);
+    System.out.println();
     }
 }
