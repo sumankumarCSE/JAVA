@@ -18,9 +18,10 @@ public class Function{
     public static void main(String args[]) {
         Scanner sc =new Scanner(System.in) ;
         System.out.print("Enter number:");
-        int n=sc.nextInt();     
-        // int a = sc.nextInt();     
-        // int b=sc.nextInt();
+        int n=sc.nextInt();  
+        System.out.print("Enter");   
+        int a = sc.nextInt();     
+        int b=sc.nextInt();
         // int sum=calculateSum(a,b);
         // System.out.println("Sum of 2 numbers is:"+ sum);     
         // System.out.println("Sum of 2 numbers is:"+ calculateSum(a,b));     
