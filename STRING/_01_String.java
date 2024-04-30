@@ -67,7 +67,7 @@ public class _01_String {
 
       System.out.println("show in String :"+st);
       System.out.println("Double :"+j);
-      System.out.println("Int:"+i);
+      System.out.println("Int :"+i);
     
     }    
 }
