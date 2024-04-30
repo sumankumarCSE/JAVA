@@ -66,7 +66,7 @@ public class _01_String {
       // Write your code here.
 
       System.out.println("show in String :"+st);
-      System.out.println("Double:"+j);
+      System.out.println("Double :"+j);
       System.out.println("Int:"+i);
     
     }    
