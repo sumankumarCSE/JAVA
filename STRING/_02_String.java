@@ -28,6 +28,7 @@ public class _02_String {
                 char backChar =sb.charAt(back);
                 System.out.println();
                 sb.setCharAt(front,backChar);
+                System.out.println();
                 sb.setCharAt(back,frontChar);
             }
             System.out.println(sb);
