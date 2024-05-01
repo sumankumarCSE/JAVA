@@ -23,7 +23,7 @@ public class _02_String {
             {
                 int front = i;
                 int back = sb.length()-1-i;
-    
+                System.out.println();
                 char frontChar =sb.charAt(front);
                 System.out.println();
                 char backChar =sb.charAt(back);
