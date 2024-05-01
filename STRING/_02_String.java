@@ -26,7 +26,7 @@ public class _02_String {
     
                 char frontChar =sb.charAt(front);
                 char backChar =sb.charAt(back);
-            
+                System.out.println();
                 sb.setCharAt(front,backChar);
                 sb.setCharAt(back,frontChar);
             }
