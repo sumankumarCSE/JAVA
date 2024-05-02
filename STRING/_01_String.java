@@ -26,7 +26,7 @@ public class _01_String {
 
      // compare
 
-     String name1 = "suman";
+     String name1 = "sumankumar";
      String name2 = "suman";
 
     //   s1 > s2  : +ve value
