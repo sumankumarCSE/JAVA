@@ -47,6 +47,9 @@ public class BitManu {
     int bitmask=1<<pos;
     System.out.println();
     System.out.println();
+    System.out.println();
+    System.out.println();
+
 
     if(oper == 1){
         int newNo = bitmask | n;
