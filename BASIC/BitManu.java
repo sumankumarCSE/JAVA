@@ -49,6 +49,7 @@ public class BitManu {
     System.out.println();
     System.out.println();
     System.out.println();
+    System.out.println();
 
 
     if(oper == 1){
