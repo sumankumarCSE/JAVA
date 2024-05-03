@@ -46,6 +46,7 @@ public class BitManu {
     int pos=1;//position 1 par 0 hai //if pos =2 ans 0001 pos 2 zero hojayega
     int bitmask=1<<pos;
     System.out.println();
+    System.out.println();
 
     if(oper == 1){
         int newNo = bitmask | n;
