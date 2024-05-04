@@ -56,8 +56,8 @@ public class BitManu {
         int newbitmask=~(bitmask);
         int newNO=newbitmask & n;
         System.out.println(newNO);
-    }
-    System.out.println("b");
+    } 
+    System.out.println("bit");
     }
 }
 
