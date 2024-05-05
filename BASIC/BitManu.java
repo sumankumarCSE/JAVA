@@ -58,7 +58,7 @@ public class BitManu {
         System.out.println(newNO);
     } 
     System.out.println("bit");
-    System.out.println("bi");
+    System.out.println("bina");
     }
 }
 
