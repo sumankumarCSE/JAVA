@@ -43,7 +43,7 @@ public class AlternetSwap {
     //         arr[i+1]=temp;
     //     }
     // }
-    System.out.println("First Funct");
+    System.out.println("First Function");
     //printA(arr,n);
     System.out.println();
     swapA(arr,n);
