@@ -6,7 +6,7 @@ public class Pattern {
     System.out.print("Enter the value of n:");
     int n = sc.nextInt();
     int i,j,k;
-    System.out.println("");
+    System.out.println("Q");
     //Q.1 squre
     //  for(i=0;i<n;i++)
     // {
