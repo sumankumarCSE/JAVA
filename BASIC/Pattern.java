@@ -16,7 +16,7 @@ public class Pattern {
     //     }
     //     System.out.print("\n");
     // }
-    System.out.println();
+    System.out.println("");
     //Q.2 
   /*for(i=0;i<n;i++)
     {
