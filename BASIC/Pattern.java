@@ -16,7 +16,7 @@ public class Pattern {
     //     }
     //     System.out.print("\n");
     // }
-    System.out.println("Question no-");
+    System.out.println("Question no-1");
     //Q.2 
   /*for(i=0;i<n;i++)
     {
