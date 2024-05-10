@@ -39,7 +39,7 @@ public class Pattern {
     }*/
 
     // Q.4
-    System.out.println("");
+    System.out.println("Que");
    /*  for(i=0;i<n;i++)
     {
         for(j=i;j>0;j--)
