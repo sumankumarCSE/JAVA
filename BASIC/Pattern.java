@@ -54,7 +54,7 @@ public class Pattern {
     }*/
 
     // Q.5
-    System.out.println("Question");
+    System.out.println("Question no");
    /*  for(i=0;i<n;i++)
     {
         for(j=n-1;j>i;j--)
