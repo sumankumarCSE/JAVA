@@ -11,7 +11,7 @@ public class BinarySearch {
         for(int i=0; i<n; i++)
             arr[i] = sc.nextInt();
         System.out.println(Arrays.toString(arr));
-        System.out.print("Enter target Element to Find: ");
+        System.out.print("Enter target Element which you want to Find: ");
         int target = sc.nextInt();
         int f=FirstOccu(arr, target);
         int l=LastOccu(arr, target);
