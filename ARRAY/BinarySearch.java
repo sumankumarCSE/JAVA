@@ -15,8 +15,7 @@ public class BinarySearch {
         int target = sc.nextInt();
         int f=FirstOccu(arr, target);
         int l=LastOccu(arr, target);
-        System.out.println(target + " Found at Index: " + search(arr, target)); //
-        System.out.println("hlo+hk");
+        System.out.println(target + " Found at Index: " + search(arr, target)); 
         System.out.println(target + " First Accurance at Index: " + f);
         System.out.println(target + " Last Accurance at Index: " + l);
         int t=((l-f)+1);
