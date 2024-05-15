@@ -21,7 +21,7 @@ public class BinarySearch {
         int t=((l-f)+1);
         System.out.println("Total no of Accurance of "+target +":"+t);
         System.out.println("Total no of Accurance of "+PeakElement(arr));
-        System.out.println();
+        System.out.println("");
         
     }
 //**********************Binary Search**********************/
